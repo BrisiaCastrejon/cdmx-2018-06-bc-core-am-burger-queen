@@ -1,0 +1,25 @@
+{ "Desayuno":[
+    {"item":"Café americano", "precio":5},
+    {"item":"Café con leche", "precio":7},
+    {"item":"Sandwich de jamón y queso", "precio":10},
+    {"item":"Jugo natural", "precio":7}
+  ], 
+  "Comida":[
+    {"item":"Hamburgues de res", "precio":{"sencilla":10, "doble":15}},
+    {"item":"Hamburguesa de pollo", "precio":{"sencilla":10, "doble":15}},
+    {"item":"Hamburguesa vegetariana", "precio":{"sencilla":10, "doble":15}},
+    {"item":"Jugo natural", "precio":{"sencilla":10, "doble":15}}
+  ],
+  "Bebidas":[
+    {"item":"Agua", "precio":{"500ml":5, "750ml":8}},
+    {"item":"Refresco", "precio":{"500ml":7, "750ml":10}}
+  ],
+  "Acompañamientos":[
+    {"item":"Papas fritas", "precio":5},
+    {"item":"Aros de cebolla", "precio":5}
+  ], 
+  "Ingredientes-extra":[
+    {"item":"huevo", "precio":1},
+    {"item":"queso", "precio":1}
+  ]         
+}
