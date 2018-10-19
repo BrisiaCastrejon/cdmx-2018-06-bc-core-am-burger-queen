@@ -49,6 +49,7 @@ class App extends Component {
           <div>
           </div>
           <section className="">
+          <h3 className="title-app">Burger-Queen</h3>     
           <Register />
           <button className="btn btn-danger btn-block" onClick={this.handleLoginGoogle}>Iniciar con Google</button>   
           </section>            
