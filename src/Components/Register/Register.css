@@ -1,0 +1,6 @@
+.primera-caja {
+  box-shadow: 0 0 10px rgba(0, 0, 0, .3);  
+}
+.form-centrado{
+  margin: 50px auto auto auto;
+}
